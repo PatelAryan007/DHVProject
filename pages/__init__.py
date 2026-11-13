@@ -1,0 +1,1 @@
+"""NIRF Insight — Dashboard pages."""
